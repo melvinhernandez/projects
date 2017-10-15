@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  font-size: 16px;
+}
+
+nav {
+  background: pink;
+  margin-bottom: 1em;
+}
+nav a {
+  padding: 1em;
+  background: #FFF;
+  margin-top: 3em;
+}
+
+#projects-intro {
+  height: 200px;
+  background-image: url('https://source.unsplash.com/random/1280x720');
+  background-size: cover;
+  background-position: center center;
+  color: #FFF;
+  text-align: center;
+  padding: 3em;
+}
+
+#projects-intro h1 {
+  font-size: 2em;
+}
+
+#left {
+  width: 50%;
+  background: #588B8B;
+  float: left;
+  padding: 2em;
+}
+
+#right {
+  width: 50%;
+  background: #F4A35E;
+  float: left;
+  padding: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
